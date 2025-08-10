@@ -26,6 +26,10 @@ categories:
 labels:
 
 projects:
+- name: Absoluta Local Add-ons
+  github_id: AlessandroTischer/absoluta-local-addon
+  description: Addon alarm bentel Absoluta local
+  category: integration
 - name: Formula One Card
   github_id: marcokreeft87/formulaone-card
   description: Present the data of Formula One in a pretty way
